@@ -18,6 +18,10 @@ Atualmente sou estudante de Engenharia de Computação <br>na Universidade Estad
 <img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 <img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
+<img align="right" alt="LetiGif" height="100" width="100" src="https://discord.com/channels/@me/706863183410888774/1160329482972962816/">
+
+
+
 ##
 [<a href = "mailto:letigsouza03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://instagram.com/letigonga03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
