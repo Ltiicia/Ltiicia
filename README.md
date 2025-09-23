@@ -1,36 +1,70 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ltiicia.Ltiicia" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=125&section=header"/>
+<h1 align="center">Olá 👋😸, Eu sou Letícia</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+LETÍCIA)](https:git.io/typing-svg)
-Atualmente sou estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana (UEFS) e estagiária FulltSack.
+<h3 align="center">Estudante de Engenharia de Computação e Estagiária FullStack do Brasil</h3>
 
-- 🔭 Atualmente estagiando como FullStack Developer
-- ⚡ Linguagens e tecnologias: TypeScript, React, Tailwind CSS
+<br/>
 
-<img align="right" alt="LetiGif" height="200" width="200" src="https://media.discordapp.net/attachments/706863183410888774/1160329482570321971/ezgif.com-gif-maker.gif?ex=6534440a&is=6521cf0a&hm=035daac8baa60ae0006149de9f9ae03e03c25ec3ccf480226d30868e166ec5d2&=&width=701&height=701">
+<div align="center">
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ltiicia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ltiicia&layout=compact&theme=radical)
+💬 Me pergunte sobre *TypeScript, React, Tailwind CSS*
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Leti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-          
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+⚡ Fato curioso *Atualmente estagiando como FullStack Developer*
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:letigsouza03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://instagram.com/letigonga03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-DC3755?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-gon%C3%A7alves-souza-045a9119b/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒ Linguagens-Frameworks-Ferramentas ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,python,java,c" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linkedin" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ltiicia/Ltiicia/output/github-contribution-grid-snake.svg" />
   
-<img align="center" alt="Leti-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Leti-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
-                  
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ltiicia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltiicia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
+<br/><br/>
 
+<hr/>
 
-##
-[<a href = "mailto:letigsouza03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<a href="https://instagram.com/letigonga03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/let%C3%ADcia-gon%C3%A7alves-souza-045a9119b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br/>
+
+<div align="center">
+<a href='https://buymeacoffee.com/ltiicia' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+</div>
+
+<br/>
