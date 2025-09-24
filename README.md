@@ -2,15 +2,14 @@
 
 <h1 align="center">Olá 👋✨, sou a Letícia</h1>
 
-<h3 align="center">Estudante de Engenharia de Computação & Estagiária FullStack</h3>
+<h3 align="center">Estudante de Engenharia de Computação & Desenvolvedora FrontEnd</h3>
 
 <br/>
 
 <div align="center">
 
 🎓 Atualmente estudando **Engenharia de Computação** na Universidade Estadual de Feira de Santana (UEFS)  
-💻 Estagiando como **FullStack Developer**  
-💬 Pergunte-me sobre *TypeScript, React, Tailwind CSS*  
+💻 Trabalhando como **FrontEnd Developer**  
 
 </div>
  
@@ -41,8 +40,7 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Ltiicia/Ltiicia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ltiicia/Ltiicia/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,7 +55,3 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltiicia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
