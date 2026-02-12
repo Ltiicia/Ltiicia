@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ltiicia.Ltiicia" />
 
-<h1 align="center">Olá 👋✨, sou a Letícia</h1>
+<h1 align="center">Olá 👋, sou a Letícia</h1>
 
 <h3 align="center">Estudante de Engenharia de Computação & Desenvolvedora FrontEnd</h3>
 
@@ -27,11 +27,17 @@
 
 <hr/>
  
-<h2 align="center">⚒ Linguagens - Frameworks - Ferramentas ⚒</h2>
+<h2 align="center">⚒️ Tecnologias e Ferramentas ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,python,c,java,html,css" />
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma" /><br>
+  <p align="center"><strong>🚀 Main Stack (Front-End)</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,styledcomponents,nextjs,js,html,css" />
+  
+  <br/><br/>
+
+  <p align="center"><strong>🛠️ Outras Tecnologias & Ferramentas</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,github,vscode,figma,postman" />
 </div>
 
 <br/>
